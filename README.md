@@ -2,6 +2,12 @@ This is a public facing repository to provide a [Wiki](https://github.com/JamesC
 
 # CHANGE LOG
 
+24 v1.17 (30th Sep 2025)
+- Meet Google's Data Policy and various declarations to reinstate App on Google Play 
+- Update to support Android 16 (API level 36)
+- Remove QR scan and generate feature as the ZXing barcode scanner App is no longer available
+- Added necessary padding to avoid menu bars overlaying clickable items
+
 23 v1.16 (28th Oct 2019)
 - Update to support Android 10 (API level 29)
 - No functional change.
